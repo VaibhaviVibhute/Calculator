@@ -3,4 +3,4 @@ This Calculator can perform basic operations like Addition, Subtraction, Multipl
 
 The calculator also display infinity if you try to divide any number by zero. Clear screen feature to clear the display screen any time you want. All operation logic is define using JavaScript.
 
-To see on the browser click here https://vaibhavivibhute.github.io/Calculator/
+To see on the browser click here 👉 https://vaibhavivibhute.github.io/Calculator/
